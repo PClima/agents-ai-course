@@ -1,0 +1,10 @@
+crewai
+crewai_tools
+groq
+langchain_community
+langchain_groq
+ipykernel
+python-dotenv
+jupyter
+pdfkit
+markdown
