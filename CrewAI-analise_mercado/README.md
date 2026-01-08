@@ -19,3 +19,12 @@ The program has as general propose generate a market report about a specific sec
 - ***Description***: The Report Writer transforms data from the Tendencies Analyst agent into a structured and comprehensive report for decision-making. Creates final documentation with a clear vision of information and strategic recommendations based on market analysis.
 - ***Objective***: Prepare a detailed report that synthesizes the findings and analysis of the sector, clearly presenting trends and actionable suggestions.
 
+## Repositories
+- crewai (orchestrator)
+- crewai_tools (orchestrator)
+- groq (AI interface)
+- langchain_community (LLM framework)
+- langchain_groq (LLM to AI)
+- python-dotenv (env variables)
+- pdfkit (file write)
+- markdown (file write)

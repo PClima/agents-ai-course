@@ -101,9 +101,9 @@ crew = Crew(
 )
 result = crew.kickoff(inputs={"sector": sector, "lang": lang})
 
-with open("CrewAI/artigo.md", "w", encoding="utf-8") as file:
+with open("artigo.md", "w", encoding="utf-8") as file:
     file.write(str(result))
 
 html = markdown.markdown(str(result))
-with open("CrewAI/artigo.html", "w", encoding="utf-8") as file:
+with open("artigo.html", "w", encoding="utf-8") as file:
     file.write(str(html))
